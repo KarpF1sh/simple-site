@@ -1,0 +1,30 @@
+.icon {
+    padding-top: 3%;
+    
+}
+
+.logo {
+    border-radius: 5%;
+    max-width: 250px;
+}
+
+.title {
+    
+    padding-left: 5%;
+    
+}
+
+.main-header {
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.child {
+    width: auto;
+    padding: 20px;
+    border-radius: 5%;
+}  
+
+h1 { font-family: monospace; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: monospace; font-size: 14px; font-style: normal; 	font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } 	blockquote { font-family: monospace; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: monospace; font-size: 13px; font-style: 	normal; font-variant: normal; font-weight: 400; line-height: 18.5667px; }
